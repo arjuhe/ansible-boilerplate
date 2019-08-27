@@ -3,5 +3,5 @@ setuptools
 wheel
 ansible
 boto
-
+ipython
 
